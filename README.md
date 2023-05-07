@@ -4,7 +4,7 @@ Konfekt is an FPGA computer designed by Lone Dynamics Corporation.
 
 ![Konfekt Computer](https://github.com/machdyne/konfekt/blob/20e7b2df0abfc4bb9a4910a4b1d3275f0849353b/konfekt.png)
 
-This repo contains schematics, pinouts, a 3D-printable case, example gateware and documentation.
+This repo contains schematics, PCB layouts, pinouts, a 3D-printable case, example gateware and documentation.
 
 Find more information on the [Konfekt product page](https://machdyne.com/product/konfekt-computer/).
 
